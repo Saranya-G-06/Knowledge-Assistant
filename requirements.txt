@@ -1,0 +1,31 @@
+# Core Python dependencies for Knowledge Assistant (Vegas Consulting)
+
+# LLM & RAG
+langchain
+llama-index
+openai
+sentence-transformers
+
+# Vector Database
+chromadb
+faiss-cpu
+
+# Web Frameworks
+fastapi
+uvicorn
+streamlit
+gradio
+
+# PDF & Data Handling
+pypdf
+python-docx
+pandas
+numpy
+
+# Security Scanner (integration)
+pytest
+requests
+
+# Optional visualization
+matplotlib
+seaborn
