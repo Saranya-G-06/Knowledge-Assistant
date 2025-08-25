@@ -26,3 +26,5 @@ dist/
 
 # Logs
 *.log
+"data/vectorstore/" 
+data/vectorstore/ 
