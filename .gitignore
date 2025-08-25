@@ -1,10 +1,2 @@
-# Ignore vectorstore data
-data/vectorstore/
-
-# Ignore Python cache
-__pycache__/
-*.pyc
-
-# Ignore HuggingFace cache
-.cache/
-
+venv/ 
+__pycache__/ 
